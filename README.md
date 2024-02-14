@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @niyazibaskurt
+- 👋 Hi, I’m Niyazi
 - 👀 I’m interested in watching film and swimming.
-- 🌱 I’m currently learning .Net Core
+- 🌱 I’m currently learning .Net Core.
 - 💞️ I am thinking of collaborating on software development and self-training.
 - 📫 You can reach me at niyazibaskurt@outlook.com
 
